@@ -30,7 +30,7 @@ Welcome to my certification repository. This repository contains my verified cer
 
 ## 🏆 Microsoft Power BI
 
-![Power BI Certificate](Power BI.png)
+![Power BI Certificate](Power_BI.png)
 
 📄 **Certificate:** [View PDF](Power BI.pdf)
 
