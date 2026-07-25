@@ -20,7 +20,7 @@ Welcome to my certification repository. This repository contains my verified cer
 
 ---
 
-## 🏆 Deloitte – Data Analytics Job Simulation
+## 🏆 Quantium – Data Analytics Job Simulation
 
 ![Deloitte Certificate](Quantium_certificate.PNG)
 
